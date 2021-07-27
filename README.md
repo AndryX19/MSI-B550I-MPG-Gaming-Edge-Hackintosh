@@ -1,5 +1,5 @@
 # Hackintosh
-OpenCore EFI made for MSI ITX B550I MPG Gaming Edge / Gaming Edge Max
+OpenCore EFI made for MSI B550I MPG (ITX)   Gaming Edge / Gaming Edge Max
 
 ## Specification
 | **Component** | **Model** |
