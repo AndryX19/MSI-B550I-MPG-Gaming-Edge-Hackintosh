@@ -34,9 +34,9 @@ OpenCore EFI made for MSI B550I MPG Gaming Edge / Gaming Edge Max
  - CFG Lock 	> Disabled
  		
 ## Installation
- - See Dortania guide for making usb installer > https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
- - Use my EFI for boot and install macOS
+ - See Dortania guide > https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
  - Generate yours personal SMBIOS data for iMacPro1,1
  - with TextEdit put the generated MLB, SerialNo. and UUID in PltformInfo section of config.plist in OC folder
+ - Use my EFI for boot and install macOS
 
 That's all, good hack.
