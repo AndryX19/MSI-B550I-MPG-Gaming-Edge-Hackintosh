@@ -12,7 +12,7 @@ OpenCore EFI made for MSI B550I MPG Gaming Edge / Gaming Edge Max
 | Audio | Realtek ACL1200 |
 | Wireless | Intel AX200 |
 
-**OpenCore version**: [0.7.1]
+**Current OpenCore version: 0.7.1**
 
 ## Compatible macOS versions:
  - Big Sur (11.5) (In use)
