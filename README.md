@@ -5,12 +5,12 @@ OpenCore EFI made for MSI B550I MPG Gaming Edge / Gaming Edge Max
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | AMD Ryzen 5 5600X |
-| RAM | 16GB (2 x 8GB) Crucial DDR4 @3600MHz |
+| RAM | 16GB (2 x 8GB) DDR4 Crucial Ballistix 3600MHz (XMP) |
 | DGPU | AMD Sapphire Nitro RX590 8gb |
 | Display | AOC QHD (2k) |
 | NVMe 1 | Samsung 970 Evo 1TB |
 | Audio | Realtek ACL1200 |
-| Wireless | Intel AX201 |
+| Wireless | Intel AX200 |
 
 **OpenCore version**: [0.7.1]
 
