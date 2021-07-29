@@ -30,8 +30,14 @@ OpenCore EFI made for MSI B550I MPG (ITX)   Gaming Edge / Gaming Edge Max
  - Tell me if something doesn't
 
 ## BIOS setting:
- - Secure Boot 	> Disabled
- - CFG Lock 	> Disabled
+ - Secure Boot           > Disabled
+ - CFG Lock              > Disabled
+ - SATA Mode             > AHCI
+ - Above 4G Decoding     > Enabled 
+ - EHCI/XHCI Hand-off    > Enabled
+ - SVM                   > Enabled
+ - CSM                   > Disabled
+ - Resizable BAR Support > Disabled
  		
 ## Installation
  - See Dortania guide > https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
