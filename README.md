@@ -10,7 +10,8 @@ OpenCore EFI made for MSI B550I MPG (ITX)   Gaming Edge / Gaming Edge Max
 | Display | AOC QHD (2k) 75Hz |
 | NVMe 1 | Samsung 970 Evo 1TB |
 | Audio | Realtek ACL1200 |
-| Wireless | Intel AX200 |
+| Wireless | Intel AX200 (wifi+bluetooth) |
+| Ethernet | Realtek 8125B 2.5G LAN |
 
 **Current OpenCore version: 0.7.1**
 
