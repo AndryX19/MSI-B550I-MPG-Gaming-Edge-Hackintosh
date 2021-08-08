@@ -1,7 +1,7 @@
 # Hackintosh:
 EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore bootloader
 
-## System specification:
+## System specifications:
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | AMD Ryzen 5 5600X |
@@ -41,7 +41,7 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
  - CSM                   > Disabled
  - Resizable BAR Support > Disabled
  		
-## Installation
+## Installation:
  - See Dortania guide > https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
  - Generate yours personal SMBIOS data for iMacPro1,1
  - with TextEdit put the generated MLB, SerialNo. and UUID in PlatformInfo section of config.plist in OC folder
