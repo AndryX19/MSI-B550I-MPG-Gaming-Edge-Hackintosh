@@ -16,7 +16,7 @@ OpenCore EFI made for MSI B550I MPG (ITX)   Gaming Edge / Gaming Edge Max
 
 ## Compatible macOS versions:
  - Big Sur (11.5) (In use)
- - Catalina (10.15.7) (I haven't tried it)
+ - Catalina (10.15) (I haven't tried it)
 
 ## What Works:
  - Wi-Fi
