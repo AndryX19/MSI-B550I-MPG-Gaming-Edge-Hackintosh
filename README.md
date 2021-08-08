@@ -1,7 +1,7 @@
-# Hackintosh
-OpenCore EFI made for MSI B550I MPG (ITX)   Gaming Edge / Gaming Edge Max
+# Hackintosh:
+EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore bootloader
 
-## Specification
+## System specification:
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | AMD Ryzen 5 5600X |
@@ -13,7 +13,7 @@ OpenCore EFI made for MSI B550I MPG (ITX)   Gaming Edge / Gaming Edge Max
 | Wireless | Intel AX200 (wifi+bluetooth) |
 | Ethernet | Realtek 8125B 2.5G LAN |
 
-**Current OpenCore version: 0.7.1**
+**Current OpenCore version: 0.7.2**
 
 ## Compatible macOS versions:
  - Big Sur (11.5) (In use)
