@@ -21,6 +21,7 @@ OpenCore EFI made for MSI B550I MPG (ITX)   Gaming Edge / Gaming Edge Max
 ## What Works:
  - Wi-Fi
  - Bluetooth
+ - Ethernet
  - dGPU (native)
  - Audio
  - All usb
