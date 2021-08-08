@@ -29,7 +29,7 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
  - Sleep/Wake up
 
 ## What Doesn't Work:
- - Tell me if something doesn't
+ - -----
 
 ## BIOS setting:
  - Secure Boot           > Disabled
