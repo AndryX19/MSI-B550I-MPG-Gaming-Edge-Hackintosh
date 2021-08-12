@@ -9,7 +9,7 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
 | DGPU | AMD Sapphire Nitro RX590 8gb |
 | Display | AOC QHD (2k) 75Hz |
 | NVMe 1 | Samsung 970 Evo 1TB |
-| Audio | Realtek ACL1200 |
+| Audio | Realtek ALC S1200A |
 | Wireless | Intel AX200 (wifi+bluetooth) |
 | Ethernet | Realtek 8125B 2.5G LAN |
 
