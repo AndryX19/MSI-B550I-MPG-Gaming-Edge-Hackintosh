@@ -23,13 +23,13 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
  - Wi-Fi
  - Bluetooth
  - Ethernet
- - dGPU (native)
+ - dGPU (mine supported natively)
  - Audio
  - All usb
  - Sleep/Wake up
 
 ## What Doesn't Work:
- - -----
+ - Seem nothing
 
 ## BIOS setting:
  - Secure Boot           -> Disabled
