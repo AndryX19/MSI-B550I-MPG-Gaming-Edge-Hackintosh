@@ -13,7 +13,7 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
 | Wireless | Intel AX200 (wifi+bluetooth) |
 | Ethernet | Realtek 8125B 2.5G LAN |
 
-**Current OpenCore version: 0.7.2**
+**Current OpenCore version: 0.7.3**
 
 ## Compatible macOS versions:
  - Big Sur (11.5) (in use)
@@ -32,17 +32,17 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
  - -----
 
 ## BIOS setting:
- - Secure Boot           > Disabled
- - CFG Lock              > Disabled
- - SATA Mode             > AHCI
- - Above 4G Decoding     > Enabled 
- - EHCI/XHCI Hand-off    > Enabled
- - SVM                   > Enabled
- - CSM                   > Disabled
- - Resizable BAR Support > Disabled
+ - Secure Boot           -> Disabled
+ - CFG Lock              -> Disabled
+ - SATA Mode             -> AHCI
+ - Above 4G Decoding     -> Enabled 
+ - EHCI/XHCI Hand-off    -> Enabled
+ - SVM                   -> Enabled
+ - CSM                   -> Disabled
+ - Resizable BAR Support -> Disabled
  		
 ## Installation:
- - See Dortania guide > https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+ - See Dortania guide -> https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
  - Generate yours personal SMBIOS data for iMacPro1,1
  - with TextEdit put the generated MLB, SerialNo. and UUID in PlatformInfo section of config.plist in OC folder
  - Use my EFI for boot and install macOS
