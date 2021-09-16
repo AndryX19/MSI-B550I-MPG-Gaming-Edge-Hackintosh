@@ -40,6 +40,8 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
  - SVM                   -> Enabled
  - CSM                   -> Disabled
  - Resizable BAR Support -> Disabled
+
+**Use the latest stable BIOS (v.7C92v17). Beta ones (e.g. v.7C92v181 (Beta version)) cause bootloop issues, no fix at the moment. If you have upgraded to the beta version you can safely downgrade with m-flash.**
  		
 ## Installation:
  - See Dortania guide -> https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
