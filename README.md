@@ -8,16 +8,15 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
 | RAM | 16GB (2 x 8GB) DDR4 Crucial Ballistix 3600MHz (XMP) |
 | DGPU | AMD Sapphire Nitro RX 590 8gb |
 | Display | AOC QHD (2k) 75Hz |
-| NVMe 1 | Samsung 970 Evo 1TB |
+| SSD | NVMe Samsung 970 Evo 1TB |
 | Audio | Realtek ALC S1200A |
 | Wireless | Intel AX200 (wifi+bluetooth) |
 | Ethernet | Realtek 8125B 2.5G LAN |
 
-**Current OpenCore version: 0.7.3**
+**Current OpenCore version: 0.7.6**
 
-## Compatible macOS versions:
- - Big Sur (11.6 in use)
- - Catalina (not tested)
+## Used macOS versions:
+ - Big Sur 11.6
 
 ## What Works:
  - Wi-Fi
@@ -49,4 +48,4 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
  - with TextEdit put the generated MLB, SerialNo. and UUID in PlatformInfo section of config.plist in OC folder
  - Use my EFI for boot and install macOS
 
-That's all, good hack.
+That's all.
