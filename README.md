@@ -42,7 +42,7 @@ Probably you can also boot catalina and monterey (require newer bluetooth kext).
  - CSM                   -> Disabled
  - Resizable BAR Support -> Disabled
 
-**Use the latest stable BIOS (v.7C92v17). Beta ones (e.g. v.7C92v181 (Beta version)) cause bootloop issues, no fix at the moment. If you have upgraded to the beta version you can safely downgrade with m-flash.**
+**Use the latest stable BIOS (7C92v18) or previous one (7C92v17), don't use beta ones**
  		
 ## Installation:
  - See Dortania guide -> https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
