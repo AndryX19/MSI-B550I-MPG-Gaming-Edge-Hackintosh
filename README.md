@@ -11,7 +11,7 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
 | SSD | NVMe Samsung 970 Evo 1TB |
 | Audio | Realtek ALC S1200A |
 | Wireless | Intel AX200 (wifi+bluetooth) |
-| Ethernet | Realtek 8125B 2.5G LAN |
+| Ethernet | Realtek 8125B 2.5Gbit LAN |
 
 **Current OpenCore version: 0.7.6**
 
@@ -46,8 +46,8 @@ Probably you can also boot catalina and monterey (require newer bluetooth kext).
  		
 ## Installation:
  - See Dortania guide -> https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
- - Generate yours personal SMBIOS data for iMacPro1,1
- - with TextEdit put the generated MLB, SerialNo. and UUID in PlatformInfo section of config.plist in OC folder
  - Use my EFI for boot and install macOS
+ - Generate yours personal SMBIOS data for iMacPro1,1
+ - with TextEdit put the generated MLB, SerialNo and UUID in PlatformInfo section of config.plist in OC folder
 
 That's all.
