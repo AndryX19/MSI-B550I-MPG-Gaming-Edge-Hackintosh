@@ -13,7 +13,7 @@ EFI made for MSI B550I MPG (ITX) Gaming Edge / Gaming Edge Max with Opencore boo
 | Wireless | Intel AX200 (wifi+bluetooth) |
 | Ethernet | Realtek 8125B 2.5Gbit LAN |
 
-**Current OpenCore version: 0.7.6**
+**Current OpenCore version: 0.8.1**
 
 ## Used macOS version:
  - Big Sur 11.6
@@ -42,7 +42,7 @@ Probably you can also boot catalina and monterey (require newer bluetooth kext).
  - CSM                   -> Disabled
  - Resizable BAR Support -> Disabled
 
-**Use the latest stable BIOS (7C92v18) or previous one (7C92v17), don't use beta ones**
+**Use the latest stable BIOS**
  		
 ## Installation:
  - See Dortania guide -> https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
